@@ -1,0 +1,84 @@
+PS C:\4th_Year\7th_semester\RERBAI\Impementation> python test.py
+User: d4
+Debator 1 : As a responsible AI, I must clarify that I can't base my move on the debate until now since I can't access external information, including the content of the debate. However, in response to 1. d4, a common and legal move for Black would be 1...d5 to claim the center and prepare for the development of the queen's bishop.
+Debator 2 :  Indeed! In response to 1. d4, 1...d5 is a solid and commonly played move for Black. This move helps to control the center and prepares the development of Black's pieces.
+Debator 1 : 1...d5
+Debator 2 :  The move 1...d5 is indeed a solid response to 1. d4. It helps to claim control of the center and prepare for the development of Black's pieces. This move is commonly played and is considered a fundamental opening move for Black in response to 1. d4.
+Final Judge: 1...d5
+User: Nf3
+Debator 1 : As per the debate till now, the next legal move from Black could be 2...Nf6. This move would continue the development of the knights and prepare to control the center with moves like e6 and possibly c5.
+Debator 2 :  Based on the debate so far, the next legal move from Black could be 2...e6. This move would support the center pawn and prepare for the development of the bishop, allowing for a solid and flexible pawn structure.
+Debator 1 : Based on the debate so far, I suggest 2...e6 for Black. This move supports the center pawn and prepares to develop the bishop, contributing to a solid and flexible pawn structure.
+Debator 2 :  Based on the given debate, the next legal move from Black could be 2...e6. This move will support the center pawn and prepare for the development of the bishop, contributing to a solid and flexible pawn structure.
+Final Judge: 2...e6
+User: Bf4
+Debator 1 : I believe a legal move for Black in this position could be 3...Nf6. This move develops the knight and prepares to castle kingside.
+Debator 2 :  Based on the debate till now, a legal move for Black in this position could be 3...Nf6. This move develops the knight and prepares to castle kingside.
+Debator 1 : Both Debator 1 and Debator 2 agree that a legal move for Black in this position is 3...Nf6. This move develops the knight and prepares to castle kingside.
+Debator 2 :  Based on the debate till now, the legal move for Black in this position is 3...Nf6. This move develops the knight and prepares to castle kingside.
+Final Judge: 3...Nf6
+User: e3
+Debator 1 : As per the moves in the debate, Black can play Nc6 here.
+Debator 2 :  Based on the previous moves in the debate, Black can indeed play 4...Nc6 in response to 4. e3. This move develops the knight and prepares to control the center with moves like e5 or c5. White may continue with 5. c3 or other options.
+Debator 1 : Based on the debate in the previous moves, the legal move for Black at this point would be 4...Nc6, as suggested. This move would indeed develop the knight and prepare to control the center with moves like e5 or c5.
+Debator 2 :  Based on the debate so far, it appears that 4...Nc6 is the suggested move for Black in response to 4. e3. This move develops the knight and prepares to control the center with moves like e5 or c5. White may continue with 5. c3 or other options.
+Final Judge: The final move for Black based on the debate between the debators is 4...Nc6.
+User: c3
+Debator 1 : As the Debator 1, based on the chess move sequence till now, I would suggest a legal move for Black side would be 5...Bd6.
+Debator 2 :  6...Bd6 would indeed be a solid move for Black, targeting White's light-squared bishop and preparing for a potential pawn break with ...c5. This move helps in developing Black's pieces and controlling the center.
+Debator 1 : The move 5...Bd6 suggested by Debator 1 seems to be a good move, targeting White's light-squared bishop and developing Black's pieces. This move can potentially prepare for a pawn break with ...c5, thereby helping to control the center.
+Debator 2 :  Based on the debate till now, where Debator 1 suggested 5...Bd6 as a legal move for Black, it seems like a good choice. This move targets White's light-squared bishop and prepares for potential pawn break with ...c5, helping to control the center. Therefore, I would agree with Debator 1 and suggest 5...Bd6 as the next move for Black.
+Final Judge: 5...Bd6.
+User: Bg3
+Debator 1 : Black's next legal move could be 6...O-O. This would allow Black to complete development and bring the king to safety, preparing to connect the rooks and potentially contest the center with moves like c5 or e5 in the future.
+Debator 2 :  Black's next legal move can indeed be 6...O-O. This move would allow Black to complete development, bring the king to safety, and prepare to connect the rooks. Additionally, Black would have the option to contest the center with moves like c5 or e5 in the future.
+Debator 1 : Based on the debate until now, the next legal move for Black is indeed 6...O-O. This move allows Black to complete development, bring the king to safety, and prepare to connect the rooks. Additionally, Black would have the option to contest the center with moves like c5 or e5 in the future.
+Debator 2 :  Based on the debate until now, the next legal move for Black is indeed 6...O-O. This move allows Black to complete development, bring the king to safety, and prepare to connect the rooks. Additionally, Black would have the option to contest the center with moves like c5 or e5 in the future.
+Final Judge: 6...O-O
+User: Bd3
+Debator 1 : As per the move sequence described, Debator 1 is currently playing as White, so I will not be able to provide a move for Black in this context. If you would like to know the possible next moves for White or have any other questions related to chess, feel free to ask!
+Debator 2 :  As an AI language model created by OpenAI, I can certainly suggest a legal move for Black in the given chess position. In this position, Black can consider playing 7...Re8, to further develop their pieces and potentially prepare for the e5 pawn break. This move aims to reinforce the control over the e5 square and prepare for future actions in the center of the board.
+Debator 1 : Debator 1: That's a great suggestion. 7...Re8 would indeed be a logical move for Black in this position. It prepares to support the e5 pawn break and improves the placement of the rook. Well done!
+Debator 2 :  As an AI language model, I understand that the debate has progressed to reaching move 7 in a chess game with White having just played Bd3. Debator 2 has suggested that Black can play 7...Re8 in this position. This move aims to further develop Black's pieces and prepare for the potential e5 pawn break. It reinforces control over the e5 square and improves the placement of the rook. This move seems to be a logical and strategic choice for Black in this position.
+Final Judge: 7...Re8
+User: Nbd2
+Debator 1 : As per the move sequence provided, as Debator 1, I would suggest the following legal move for Black: 8...e5. This opens up the center and challenges the white bishop on f4, potentially gaining space and creating more active piece play for Black.
+Debator 2 :  As Debator 2, I agree with the move suggested by Debator 1. 8...e5 is a strong move for Black, challenging the white bishop on f4 and aiming to open up the center. This move follows the principles of gaining space and activating Black's pieces, and it is a sound choice in this position.
+Debator 1 : As an AI, I would like to add that 8...e5 is indeed a strong move for Black in this position. It challenges the white bishop on f4 and aims to open up the center, gaining space and activating Black's pieces. This move follows the principles of solid chess strategy, and it is a good choice in this position.
+Debator 2 :  As an AI, I completely agree with the analysis provided by both debators. The move 8...e5 is a solid choice for Black in this position as it challenges the white bishop on f4, gains space, and opens up the center, which aligns with the principles of solid chess strategy. This move is a strong and logical continuation for Black in this position.
+Final Judge: Based on the debate between Debator 1 and 2, the final move for Black is 8...e5.
+User: dxe5
+Debator 1 : Based on the current game state, I would suggest that Black play 9...Nxe5. This move offers Black the opportunity to capture the White bishop on f4 and potentially gain an advantage in the game.
+Debator 2 :  Yes, I agree with Debator 1. The move 9...Nxe5 for Black seems to be a good choice at this point. Capturing the White bishop on f4 will help Black to put more pressure on the center and potentially gain an advantage in the game.
+Debator 1 : Based on the debate and the current game state, the move suggested for Black is 9...Nxe5. This move allows Black to capture the White bishop on f4, potentially gaining an advantage in the game.
+Debator 2 :  Based on the debate and the current game state, the move suggested for Black is 9...Nxe5. This move allows Black to capture the White bishop on f4, potentially gaining an advantage in the game.
+Final Judge: 9...Nxe5
+User: Nxe5
+Debator 1 : Black can play 10...Bxe5 as a legal move.
+Debator 2 :  Based on the debate so far, the legal move for Black at this point would be 10...Bxe5.
+Debator 1 : Yes, based on the debate, the legal move for Black at this point would be 10...Bxe5. This move captures the White knight on e5 and improves Black's position.
+Debator 2 :  Yes, the legal move for Black at this point would be 10...Bxe5. This move captures the White knight on e5 and improves Black's position.
+Final Judge: 10...Bxe5
+User: Bxe5
+Debator 1 : Based on the previous moves, Black should consider developing their pieces further. A legal and strong move for Black here could be 11...Bg4, attacking the bishop on e5 and creating some pressure on White's position.
+Debator 2 :  Based on the debate till now, a legal move for Black could be 11...Bg4, as suggested by Debator 1. This move puts pressure on the white position and attacks the bishop on e5.
+Debator 1 : Based on the debate till now, the legal move for Black would be 11...Bg4, as suggested by both Debator 1 and Debator 2. This move puts pressure on the white position and attacks the bishop on e5.
+Debator 2 :  Based on the debate, the legal move for Black would be 11...Bg4, as suggested by both Debator 1 and Debator 2. This move puts pressure on the white position and attacks the bishop on e5.
+Final Judge: 11...Bg4
+User: Bxf6
+Debator 1 : Based on the move sequence provided, the next legal move for Black would be 12... Bxd1, capturing the White bishop on f6.
+Debator 2 :  The move 12...Bxd1 is not a legal move as it would result in the black bishop being captured immediately by the white queen. Instead, the correct move for black, based on the debate till now, would be 12...Qxf6, recapturing the White bishop on f6 with the queen.
+Debator 1 : Debator 2 is correct. The legal move for Black in the given position is indeed 12...Qxf6, recapturing the White bishop on f6 with the queen.
+Debator 2 :  The correct move for Black in the given position is 12...Qxf6, recapturing the White bishop on f6 with the queen.
+Final Judge: 12...Qxf6
+User: Qxg4
+Debator 1 : At this point in the game, Black can play 13...Qb6. This move puts pressure on the b2 pawn and prepares to develop the queen while maintaining control over the center of the board.
+Debator 2 :  Based on the debate and the move sequence so far, 13...Qb6 is indeed a legal and strategically sound move for Black. It puts pressure on the b2 pawn and prepares to develop the queen while maintaining control over the center of the board, as suggested by Debator 1.
+Debator 1 : Given the move sequence and the debate, it is indeed suggested that Black should play 13...Qb6. This move applies pressure on the b2 pawn and prepares to develop the queen while maintaining control over the center of the board. Therefore, 13...Qb6 is a legal and strategically sound move for Black in this position.
+Debator 2 :  Based on the debate and the move sequence so far, the legal move for Black in this position is indeed 13...Qb6. This move puts pressure on the b2 pawn and prepares to develop the queen while maintaining control over the center of the board, as suggested by both Debator 1 and Debator 2. Therefore, 13...Qb6 is the appropriate move for Black in this position.
+Final Judge: The final move for Black is 13...Qb6.
+User: Rb1
+Debator 1 : Black should consider playing 14...Rxe3+ in this position. This move uses the pin on the d-file to create an attacking opportunity, as after 15. fxe3 Qxe3+ 16. Qe2, Black can play 16...Qxd3, gaining material.
+Debator 2 :  I'm sorry, but 14...Rxe3+ is not a legal move because it exposes the Black rook without any threats. A better move for Black in this position could be 14...Qa5, aiming to create pressure on White's b5 pawn and potentially preparing to bring the Queen to the b-file to support the pawn's advance.
+Debator 1 : I think Debator 2 is correct. 14...Qa5 is a better move for Black in this position, aiming to create pressure on White's b5 pawn and potentially preparing to bring the Queen to the b-file to support the pawn's advance.
+Error: Unexpected response format for Debator2
